@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  /* font-family: "Quicksand"; */
+  font-family: "Helvetica, sans-serif";
+}
+
+.weatherApi{
+  color:black;
+}
+
+.blogDetails-container{
+  padding: 15px;
+}
+
+.blogDetails-container image {
+  width: 70%;
+  height: 200px;
+}
+
+.newsApi{
+  padding: 5px;
+  text-align: left;
+}
+
+.weatherApi{
+  margin: 15px;
+  margin-top: 5px;
+  padding: 10px;
+  text-align: left;
+  border-top-style: solid;
+  border-width: 10px;
+  border-color:#1a48c4;
+  background-color: white;
+  height: 250px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.weatherApi h4{
+  padding-top: 5px;
+}
+
+.twitterApi{
+  margin: 15px;
+}
+
+
+.nav-heading{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
+
+.blogDetails-container{
+  background-color: white;
+  margin-top: 10px;
+  height: 580px;
+  padding: 25px;
+  border-radius: 5px;
+}
+
+.blogDetails-container img{
+  width: 70%;
+}
+
+.blogDetails-container h3{
+  padding-top: 10px;
+  font-size: 18px;
+  line-height: 1.4;
+}
