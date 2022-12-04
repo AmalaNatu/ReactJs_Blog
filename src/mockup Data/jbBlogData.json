@@ -1,0 +1,28 @@
+[
+	{
+
+	"id":"1",
+	"title": "Fall Back into Health",
+	
+	"date": "Sep 08, 2020",
+	"imgUrl":"fall-back-into-health.jpg",
+    "summary":"Disney quote is so accurate and it did come true for me......"
+	},
+	{
+	"id":"2",
+	"title": "Healthy Eating",
+	
+	"date": "08/23/2022",
+	"imgUrl":"Leiaeatinghealthy.jpg",
+    "summary":"In India when we talk of cricket it is not just a game, but an emotion......"
+	},
+	{
+	"id":"3",
+	"title": "Socially Distaned Outdoor Workout",
+	
+	"date": "03/25/2021",
+	"imgUrl":"jump.jpg",
+    "summary":"From switching streams to sticking to coding, because it just clicked....."
+	}
+	
+]
