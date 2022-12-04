@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+}
+
+.Intro{
+  background-color: white;
+  margin-top: 10px;
+  padding: 15px;
+  text-align: left;
+  border-radius: 5px;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.5);
+  width: 95%;
+
+}
+
+.Intro h1{
+  padding-bottom: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-bottom: medium dashed #1a48c4;
+}
+
+.Intro h3{
+  padding-top: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+.App-header {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+.blog-container{
+  background-color: wheat;
+  width: 100%;
+}
+
+/* Code for Left Div tag */
+.App-leftdiv{
+  display: flex;
+  flex-direction: column;
+  color: #000;
+  width: 75%;
+  height: 680px;
+  background-color: #edebeb;
+  float: left;
+  } 
+
+  .App-leftdiv h1{
+    color: #1a48c4;
+  }
+
+  .App-leftdiv a{
+    text-decoration: none;
+  }
+
+  /* Code for Right Div tag */
+.App-rightdiv{
+  display: flex;
+  color: white;
+  width: 25%;
+  height: 680px;
+  background-color: #edebeb;
+  flex-direction: column;
+}
+
+.App-footer{
+  background-color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: black;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  height: auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.links{
+  display: flex;
+  justify-content: space-around;
+}
+
+.links a{
+  text-decoration: none;
+  color: white;
+}
+
+.links a:hover{
+  color:yellow;
+}
+
+.post-container h4{
+  padding: 5px;
+  padding-top: 10px;
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
