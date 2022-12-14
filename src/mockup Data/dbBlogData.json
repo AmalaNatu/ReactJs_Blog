@@ -5,6 +5,7 @@
 	"title": "Fall Back into Health",
 	
 	"date": "Sep 08, 2020",
+	"author":"Liz Sauchelli",
 	"imgUrl":"fall-back-into-health.jpg",
     "summary":"The stress of COVID-19 has led many to some unhealthy habits, this blog explains how to get back on track."
 	},
@@ -13,6 +14,7 @@
 	"title": "Healthy Eating",
 	
 	"date": "08/23/2022",
+	"author":"Steve Kamb",
 	"imgUrl":"Leiaeatinghealthy.jpg",
     "summary":"Start eating healthy without being miserable."
 	},
@@ -21,6 +23,7 @@
 	"title": "Socially Distaned Outdoor Workout",
 	
 	"date": "03/25/2021",
+	"author":"Jen Kates",
 	"imgUrl":"jump.jpg",
     "summary":"Instead of training in gym try different outdoor activities"
 	}
